@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "of course, toei will pass! i see she studying really hard every single day!";
+  question.innerHTML = "of course, toei will pass! i see her studying really hard every single day!";
   
   gif.src =
     "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JybHl5NjZ1Y2t6Y3Z1ZnRkNzllOWdmZDNnOWFrM2dybXh1YTVuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYwfMYBALrofC/giphy.gif";
